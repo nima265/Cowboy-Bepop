@@ -219,7 +219,7 @@ def mainloop():
        f.close()
      else:
        f = open("save.txt","r")
-       hight_level = f.read()
+       high_level = f.read()
        f.close()
        hscore_font = pygame.font.SysFont("PressStart2P", 20)
        hscore_label = hscore_font.render(" High Score : ",1,(255,0,0))
