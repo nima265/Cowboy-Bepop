@@ -10,11 +10,9 @@ Cowboy Bebop is a 2D space shooter game developed in Python using the Pygame lib
 
 - Fast-paced space shooter gameplay
 - Multiple enemy types with unique behaviors
-- Power-ups and bonuses for enhanced abilities
-- Epic boss battles at regular intervals
 - Stunning visual and audio effects
 - Smooth and responsive controls
-- High scores leaderboard
+- High scores 
 - Engaging soundtrack inspired by the "Cowboy Bebop" series
 
 ## Installation
